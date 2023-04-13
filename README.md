@@ -1,16 +1,20 @@
-### Hi there 👋
+### About Me 👨🏻‍💻
 
-<!--
-**PavelFlynn/PavelFlynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi!. I'm Pavel. PHP Web Developer with experience on developing LMS and surveys (no frameworks) for IT companies.
 
-Here are some ideas to get you started:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/https://www.linkedin.com/in/apavel-rampi-1b552379//)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills and Experience
+- HTML
+- CSS | SASS
+- Tailwind | MUI
+- JS | jQuery
+- PHP | MVC | REST API
+- MySQL | phpMyAdmin
+- Google Cloud Platform - LAMP Deployment
+
+### Currently learning
+- Nextjs + React.js
+- Laravel
+- Git ... stil😅
+
