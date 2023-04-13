@@ -7,7 +7,7 @@ Hi!. I'm Pavel. PHP Web Developer with experience on developing LMS and surveys 
 ### Skills and Experience
 - HTML
 - CSS | SASS
-- Tailwind | MUI
+- Tailwind
 - JS | jQuery
 - PHP | MVC | REST API
 - MySQL | phpMyAdmin
@@ -15,6 +15,7 @@ Hi!. I'm Pavel. PHP Web Developer with experience on developing LMS and surveys 
 
 ### Currently learning
 - Nextjs + React.js
+- MUI | Framer Motion
 - Laravel
 - Git ... stil😅
 
