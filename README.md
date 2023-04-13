@@ -18,3 +18,6 @@ Hi!. I'm Pavel. PHP Web Developer with experience on developing LMS and surveys 
 - Laravel
 - Git ... stil😅
 
+![Profile views](https://gpvc.arturio.dev/PavelFlynn)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelFlynn)](https://github.com/anuraghazra/github-readme-stats)
