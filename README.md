@@ -1,6 +1,6 @@
 ### 👨🏻‍💻About Me
 
-Hi!. I'm Pavel. PHP Web Developer with experience on developing LMS and surveys (no frameworks) for IT companies.
+Hi!. I'm Pavel. PHP Web Developer with experience on developing LMS and surveys (no frameworks) for IT companies. Currently I'm learning React.js and Firebase.
 
 [<img src='https://cdn.cdnlogo.com/logos/l/78/linkedin-icon.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/apavel-rampi-1b552379/)  
 
