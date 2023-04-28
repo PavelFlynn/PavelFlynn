@@ -14,7 +14,7 @@ Hi!. I'm Pavel. PHP Web Developer with experience on developing LMS and surveys 
 - Google Cloud Platform - LAMP Deployment
 
 ### ⚡️Currently learning
-- React.js
+- React.js + TS
 - Firebase
 - MUI | Framer Motion
 - Laravel
